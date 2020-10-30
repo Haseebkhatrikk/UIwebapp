@@ -1,0 +1,301 @@
+#afterbanner {
+        background-color: #0bcce4;
+        padding: 50px 0;
+    }
+    .ulleft {
+        float:left;
+        padding-left: 180px;
+        background-color: black;
+        color: white;
+    }
+    .ulright {
+        float:right;
+        padding-right: 180px;
+        background-color: black;
+        color: white;
+    }
+    .color
+    {
+        background-color: black;
+    }
+
+   .topbar p > i {
+   margin-right: 5px;
+   color: #00bcd4;
+    }
+
+    
+    
+    .brandpadding
+    {
+        float: left;
+        
+    }
+    
+    .container
+    {
+       width: 1170px;
+   
+    }
+    .afterbannerpadding
+    {
+       width: 83.33333333333334%;
+    }
+    .readmoreafterpadding
+    {
+       width: 16.666666666666664%;
+    }
+    .btn
+    {
+        border-color: rgba(29, 29, 29, 0.2);
+        background: transparent;
+        margin-top: 50px;
+        color: #39393a;
+        text-align: center;
+        display: inline-block;
+        font-size: 14px;
+        line-height: 1.428571429;
+        white-space: nowrap;
+        cursor: pointer;
+        padding: 12px 25px;
+        box-sizing: border-box;
+        vertical-align: middle;
+        margin-bottom: 0;
+    }
+
+    .navbarpadding 
+    {
+        float: right;
+    }
+    
+    .header .navbar-collapse ul.navbar-nav
+    {
+      float: right;
+      margin: 0%;
+    }
+    
+    .topbar
+    {
+      font-size: 11px;
+      background-color: #333;
+      color: white;
+    }
+    .col-md-12 {
+      width: 100%;
+    }
+
+    .topbar .container .row
+    {
+      margin: 0%;
+      padding: 0%;
+    }
+    .pull-left {
+      float: left!important;
+    }
+    .pull-right
+    {
+      float: right!important;
+    }
+    .aligncenter
+    {
+      text-align: center;
+     
+    }
+    .pstyle
+    {
+      font-size: small;
+      margin-top: 20px;
+    }
+
+   .info-blocks i.icon-info-blocks {
+   color: #00bcd4;
+   font-size: 38px;
+   min-width: 50px;
+   margin-top: 7px;
+   text-align: center;
+   width: 56px;
+   height: 74px;
+   padding-top: 21px;
+   border-bottom: 1px solid #00bcd4;
+   text-align: center;
+   margin-bottom: 18px;
+}
+.col-sm-4 {
+   width: 33.33333333333333%;
+}
+
+.info-blocks .info-blocks-in {
+   overflow: hidden;
+   background: #f6f6f6;
+   padding: 20px 15px;
+}
+
+
+
+.info-blocks
+{
+ text-align: center;
+}
+
+.p 
+{
+ margin: 0 0 10px;
+ color: #656565;
+ font-size: xx-small;
+}
+
+h3 {
+   display: block;
+   font-size: 1.17em;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   font-weight: bold;
+   color: #212529;
+   margin-top: 0;
+   margin-bottom: 1rem;
+}
+
+.fa {
+   display: inline-block;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+.col-md-3 {
+   width: 25%;
+}
+
+footer {
+   background: #282a2c;
+   display: block;
+}
+
+li {
+   text-align: -webkit-match-parent;
+}
+
+
+
+footer ul.link-list li a {
+   color: rgba(255, 255, 255, 0.63);
+}
+
+footer .widgetheading {
+ position: relative;
+}
+
+.widgetheading {
+   width: 100%;
+   padding: 0;
+   text-align: left;
+   font-weight: bold;
+   color: #00bcd4;
+}
+
+h5 {
+   display: block;
+   font-size: 0.83em;
+   margin-block-start: 1.67em;
+   margin-block-end: 1.67em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   font-weight: bold;
+}
+
+ul {
+   display: block;
+   list-style-type: disc;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   padding-inline-start: 40px;
+}
+
+ul.general {
+   list-style:none;
+   margin-left:0;
+}
+
+ul.link-list{
+   margin:0;
+   padding:0;
+   list-style:none;
+}
+
+ul.link-list li{
+   margin:0;
+   padding:2px 0 2px 0;
+   list-style:none;
+}
+footer{background: #282a2c;}
+footer ul.link-list li a{
+   color: rgba(255, 255, 255, 0.63);
+}
+footer ul.link-list li a:hover {
+   color: #00bcd4;
+}
+
+ul.social-network li {
+   display: inline;
+   margin: 0 5px;
+   border: 1px solid #535456;
+   padding: 5px 0 0;
+   width: 32px;
+   display: inline-block;
+   text-align: center;
+   height: 32px;
+   vertical-align: baseline;
+}
+
+.col-lg-6 {
+   width: 50%;
+   float: left;
+}
+
+h3, h4, h5, h6 {
+   line-height: 1.1em;
+   color: #000000;
+   margin-bottom: 20px;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+}
+
+a {
+   color: white;
+   text-decoration: none;
+   background: 0 0;
+}
+
+
+.widget {
+   color: rgba(255, 255, 255, 0.77);
+}
+
+#sub-footer {
+   text-shadow: none;
+   color: #f5f5f5;
+   padding: 0;
+   padding-top: 30px;
+   margin: 20px 0 0 0;
+   background: #232527;
+}
+
+
+.row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+
+#inner-headline h2.pageTitle {
+    color: rgb(255, 255, 255);
+    padding: 5px 0;
+    display: block;
+    text-transform: capitalize;
+    text-align: center;
+}
